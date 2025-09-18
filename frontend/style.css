@@ -109,3 +109,15 @@ body {
 .dot.d1 { animation-delay: -0.32s; }
 .dot.d2 { animation-delay: -0.16s; }
 @keyframes bounce { 0%, 80%, 100% { transform: scale(0); } 40% { transform: scale(1.0); } }
+
+/* (Keep all previous CSS code) */
+
+/* ADD THIS AT THE END for formatted lists */
+.message-content ul {
+    padding-left: 20px;
+    margin: 10px 0 0 0;
+}
+
+.message-content li {
+    margin-bottom: 5px;
+}
