@@ -31,6 +31,8 @@ It leverages modern APIs (OpenAI, Google Places, etc.) to deliver an efficient a
 - *Frontend:* Streamlit (or Flask templates)  
 - *APIs:*  
   - OpenAI API (chat + health guidance)  
+
+Presentation Link: https://gamma.app/docs/CuraBot-ygth6nt9cjmjkl4
   - Google Places API (location services)  
 - *Database:* SQLite / PostgreSQL (for storing user history)  
 - *Deployment:* Docker / Vercel / Render
